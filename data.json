@@ -1,0 +1,470 @@
+{
+    "students": [
+        {
+            "name": "Alice Johnson",
+            "email": "alice.johnson@example.com",
+            "contact_number": "555-1234",
+            "address": "123 Maple Street, Springfield",
+            "student_id": "S001",
+            "year_level": "Freshman",
+            "program": "Computer Science",
+            "gpa": 3.5,
+            "birth_date": "2004-05-15",
+            "enrolled_courses": [
+                {
+                    "course_name": "Introduction to Programming",
+                    "course_code": "C001",
+                    "units": 3
+                },
+                {
+                    "course_name": "Calculus I",
+                    "course_code": "C002",
+                    "units": 4
+                }
+            ]
+        },
+        {
+            "name": "Bob Smith",
+            "email": "bob.smith@example.com",
+            "contact_number": "555-5678",
+            "address": "456 Oak Avenue, Springfield",
+            "student_id": "S002",
+            "year_level": "Sophomore",
+            "program": "Mathematics",
+            "gpa": 3.8,
+            "birth_date": "2003-08-22",
+            "enrolled_courses": [
+                {
+                    "course_name": "Calculus I",
+                    "course_code": "C002",
+                    "units": 4
+                },
+                {
+                    "course_name": "Linear Algebra",
+                    "course_code": "C003",
+                    "units": 3
+                }
+            ]
+        },
+        {
+            "name": "Charlie Brown",
+            "email": "charlie.brown@example.com",
+            "contact_number": "555-2345",
+            "address": "234 Elm Street, Springfield",
+            "student_id": "S003",
+            "year_level": "Junior",
+            "program": "Engineering",
+            "gpa": 3.2,
+            "birth_date": "2002-11-10",
+            "enrolled_courses": [
+                {
+                    "course_name": "Introduction to Programming",
+                    "course_code": "C001",
+                    "units": 3
+                }
+            ]
+        },
+        {
+            "name": "Diana Prince",
+            "email": "diana.prince@example.com",
+            "contact_number": "555-3456",
+            "address": "345 Cedar Avenue, Springfield",
+            "student_id": "S004",
+            "year_level": "Senior",
+            "program": "Physics",
+            "gpa": 3.9,
+            "birth_date": "2001-01-28",
+            "enrolled_courses": [
+                {
+                    "course_name": "Calculus I",
+                    "course_code": "C002",
+                    "units": 4
+                },
+                {
+                    "course_name": "Linear Algebra",
+                    "course_code": "C003",
+                    "units": 3
+                }
+            ]
+        },
+        {
+            "name": "Ethan Hunt",
+            "email": "ethan.hunt@example.com",
+            "contact_number": "555-4567",
+            "address": "456 Spruce Lane, Springfield",
+            "student_id": "S005",
+            "year_level": "Freshman",
+            "program": "Computer Science",
+            "gpa": 3.0,
+            "birth_date": "2004-03-15",
+            "enrolled_courses": [
+                {
+                    "course_name": "Introduction to Programming",
+                    "course_code": "C001",
+                    "units": 3
+                }
+            ]
+        },
+        {
+            "name": "Fiona Gallagher",
+            "email": "fiona.gallagher@example.com",
+            "contact_number": "555-5670",
+            "address": "567 Willow Drive, Springfield",
+            "student_id": "S006",
+            "year_level": "Sophomore",
+            "program": "Biology",
+            "gpa": 3.6,
+            "birth_date": "2003-07-01",
+            "enrolled_courses": [
+                {
+                    "course_name": "Calculus I",
+                    "course_code": "C002",
+                    "units": 4
+                }
+            ]
+        },
+        {
+            "name": "George Washington",
+            "email": "george.washington@example.com",
+            "contact_number": "555-6781",
+            "address": "678 Ash Street, Springfield",
+            "student_id": "S007",
+            "year_level": "Junior",
+            "program": "History",
+            "gpa": 3.4,
+            "birth_date": "2002-04-12",
+            "enrolled_courses": [
+                {
+                    "course_name": "Linear Algebra",
+                    "course_code": "C003",
+                    "units": 3
+                }
+            ]
+        },
+        {
+            "name": "Hannah Montana",
+            "email": "hannah.montana@example.com",
+            "contact_number": "555-7892",
+            "address": "789 Maple Avenue, Springfield",
+            "student_id": "S008",
+            "year_level": "Senior",
+            "program": "Mathematics",
+            "gpa": 3.7,
+            "birth_date": "2001-12-22",
+            "enrolled_courses": [
+                {
+                    "course_name": "Introduction to Programming",
+                    "course_code": "C001",
+                    "units": 3
+                },
+                {
+                    "course_name": "Calculus I",
+                    "course_code": "C002",
+                    "units": 4
+                }
+            ]
+        },
+        {
+            "name": "Iris West",
+            "email": "iris.west@example.com",
+            "contact_number": "555-8903",
+            "address": "890 Oak Street, Springfield",
+            "student_id": "S009",
+            "year_level": "Freshman",
+            "program": "Computer Science",
+            "gpa": 3.1,
+            "birth_date": "2004-06-30",
+            "enrolled_courses": [
+                {
+                    "course_name": "Calculus I",
+                    "course_code": "C002",
+                    "units": 4
+                }
+            ]
+        },
+        {
+            "name": "Jack Sparrow",
+            "email": "jack.sparrow@example.com",
+            "contact_number": "555-9014",
+            "address": "901 Pine Lane, Springfield",
+            "student_id": "S010",
+            "year_level": "Sophomore",
+            "program": "Literature",
+            "gpa": 3.0,
+            "birth_date": "2003-09-19",
+            "enrolled_courses": [
+                {
+                    "course_name": "Linear Algebra",
+                    "course_code": "C003",
+                    "units": 3
+                }
+            ]
+        },
+        {
+            "name": "Kelly Green",
+            "email": "kelly.green@example.com",
+            "contact_number": "555-0125",
+            "address": "123 Birch Avenue, Springfield",
+            "student_id": "S011",
+            "year_level": "Junior",
+            "program": "Chemistry",
+            "gpa": 3.8,
+            "birth_date": "2002-02-14",
+            "enrolled_courses": [
+                {
+                    "course_name": "Introduction to Programming",
+                    "course_code": "C001",
+                    "units": 3
+                },
+                {
+                    "course_name": "Calculus I",
+                    "course_code": "C002",
+                    "units": 4
+                }
+            ]
+        },
+        {
+            "name": "Liam Neeson",
+            "email": "liam.neeson@example.com",
+            "contact_number": "555-1236",
+            "address": "234 Cedar Road, Springfield",
+            "student_id": "S012",
+            "year_level": "Senior",
+            "program": "Philosophy",
+            "gpa": 3.5,
+            "birth_date": "2001-05-20",
+            "enrolled_courses": [
+                {
+                    "course_name": "Calculus I",
+                    "course_code": "C002",
+                    "units": 4
+                }
+            ]
+        },
+        {
+            "name": "Mia Thermopolis",
+            "email": "mia.thermopolis@example.com",
+            "contact_number": "555-2347",
+            "address": "345 Spruce Street, Springfield",
+            "student_id": "S013",
+            "year_level": "Freshman",
+            "program": "Political Science",
+            "gpa": 3.4,
+            "birth_date": "2004-11-02",
+            "enrolled_courses": [
+                {
+                    "course_name": "Introduction to Programming",
+                    "course_code": "C001",
+                    "units": 3
+                }
+            ]
+        },
+        {
+            "name": "Noah Centineo",
+            "email": "noah.centineo@example.com",
+            "contact_number": "555-3458",
+            "address": "456 Oakwood Drive, Springfield",
+            "student_id": "S014",
+            "year_level": "Sophomore",
+            "program": "Sociology",
+            "gpa": 3.6,
+            "birth_date": "2003-03-30",
+            "enrolled_courses": [
+                {
+                    "course_name": "Calculus I",
+                    "course_code": "C002",
+                    "units": 4
+                }
+            ]
+        },
+        {
+            "name": "Olivia Rodrigo",
+            "email": "olivia.rodrigo@example.com",
+            "contact_number": "555-4569",
+            "address": "567 Maple Lane, Springfield",
+            "student_id": "S015",
+            "year_level": "Junior",
+            "program": "Music",
+            "gpa": 4.0,
+            "birth_date": "2002-02-15",
+            "enrolled_courses": [
+                {
+                    "course_name": "Linear Algebra",
+                    "course_code": "C003",
+                    "units": 3
+                }
+            ]
+        },
+        {
+            "name": "Paul Atreides",
+            "email": "paul.atreides@example.com",
+            "contact_number": "555-5670",
+            "address": "678 Pine Hills, Springfield",
+            "student_id": "S016",
+            "year_level": "Senior",
+            "program": "Literature",
+            "gpa": 3.9,
+            "birth_date": "2001-07-25",
+            "enrolled_courses": [
+                {
+                    "course_name": "Introduction to Programming",
+                    "course_code": "C001",
+                    "units": 3
+                }
+            ]
+        },
+        {
+            "name": "Quinn Fabray",
+            "email": "quinn.fabray@example.com",
+            "contact_number": "555-6781",
+            "address": "789 Willow Lane, Springfield",
+            "student_id": "S017",
+            "year_level": "Freshman",
+            "program": "Nursing",
+            "gpa": 3.3,
+            "birth_date": "2004-01-10",
+            "enrolled_courses": [
+                {
+                    "course_name": "Calculus I",
+                    "course_code": "C002",
+                    "units": 4
+                }
+            ]
+        },
+        {
+            "name": "Ryan Gosling",
+            "email": "ryan.gosling@example.com",
+            "contact_number": "555-7892",
+            "address": "890 Cedar Road, Springfield",
+            "student_id": "S018",
+            "year_level": "Sophomore",
+            "program": "Theater",
+            "gpa": 3.1,
+            "birth_date": "2003-12-30",
+            "enrolled_courses": [
+                {
+                    "course_name": "Introduction to Programming",
+                    "course_code": "C001",
+                    "units": 3
+                }
+            ]
+        },
+        {
+            "name": "Sophia Turner",
+            "email": "sophia.turner@example.com",
+            "contact_number": "555-8903",
+            "address": "901 Spruce Avenue, Springfield",
+            "student_id": "S019",
+            "year_level": "Junior",
+            "program": "Business",
+            "gpa": 3.7,
+            "birth_date": "2002-08-05",
+            "enrolled_courses": [
+                {
+                    "course_name": "Calculus I",
+                    "course_code": "C002",
+                    "units": 4
+                }
+            ]
+        },
+        {
+            "name": "Tyler Durden",
+            "email": "tyler.durden@example.com",
+            "contact_number": "555-9014",
+            "address": "123 Pine Street, Springfield",
+            "student_id": "S020",
+            "year_level": "Senior",
+            "program": "Psychology",
+            "gpa": 3.4,
+            "birth_date": "2001-11-15",
+            "enrolled_courses": [
+                {
+                    "course_name": "Linear Algebra",
+                    "course_code": "C003",
+                    "units": 3
+                }
+            ]
+        }
+    ],
+    "instructors": [
+        {
+            "instructor_id": "I001",
+            "name": "Dr. Emily Davis",
+            "email": "emily.davis@example.com",
+            "contact_number": "555-8765",
+            "address": "789 Pine Road, Springfield"
+        },
+        {
+            "instructor_id": "I002",
+            "name": "Prof. John Doe",
+            "email": "john.doe@example.com",
+            "contact_number": "555-4321",
+            "address": "321 Birch Lane, Springfield"
+        }
+    ],
+    "courses": [
+        {
+            "course_name": "Introduction to Programming",
+            "course_code": "C001",
+            "instructor_id": "I001",
+            "units": 3
+        },
+        {
+            "course_name": "Calculus I",
+            "course_code": "C002",
+            "instructor_id": "I002",
+            "units": 4
+        },
+        {
+            "course_name": "Linear Algebra",
+            "course_code": "C003",
+            "instructor_id": "I002",
+            "units": 3
+        }
+    ],
+    "enrollments": [
+        {
+            "student_id": "S001",
+            "course_code": "C001"
+        },
+        {
+            "student_id": "S001",
+            "course_code": "C002"
+        },
+        {
+            "student_id": "S002",
+            "course_code": "C002"
+        },
+        {
+            "student_id": "S002",
+            "course_code": "C003"
+        }
+    ],
+    "schedules": [
+        {
+            "course_code": "C001",
+            "day": "Monday",
+            "time": "09:00 AM - 11:00 AM"
+        },
+        {
+            "course_code": "C002",
+            "day": "Wednesday",
+            "time": "10:00 AM - 12:00 PM"
+        },
+        {
+            "course_code": "C003",
+            "day": "Friday",
+            "time": "01:00 PM - 03:00 PM"
+        }
+    ],
+    "admins": [
+        {
+            "email": "admin@example.com",
+            "password": "12345"
+        },
+        {
+            "email": "admin2@example.com",
+            "password": "hashed_password_here"
+        }
+    ]
+}
